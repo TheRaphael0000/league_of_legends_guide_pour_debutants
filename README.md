@@ -8,13 +8,13 @@ League of Legends c'est une jeu multijoueur d'arène en ligne (MOBA: Multiplayer
 
 L'objectif du guide est de parler du mode principale du jeu à savoir le 5 contre 5 sur la carte faille de l'invocateur.
 
-[Aller au premier chapitre (Introduction)](chapitres/1_Introduction.md)
+[Aller au premier chapitre (Introduction)](chapitres/01_Introduction.md)
 
 ## Sommaire
 
 Voici le chapitrage du guide, nous allons abordez toutes sorte de sujet! Peut-être que
 
-1. [Introduction au guide](chapitres/1_Introduction.md)
+1. [Introduction au guide](chapitres/01_Introduction.md)
 2. [Les bases]()
 3. [Les Champions et Sorts]()
 4. [La carte]()
